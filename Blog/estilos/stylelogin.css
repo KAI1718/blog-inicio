@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    background: #4c9484;
+    opacity: 0.9;
+    height: 745px;
+    border-radius: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px #04fade, 0 0 70px #fcf4f4;
+}
+font {
+    color: white;
+    font-size: 2rem;
+}
+.fa-github{
+    font-size: 4rem;
+}
+.fa-facebook{
+    font-size: 4rem;
+}
+.fa-google{
+    font-size: 4rem;
+}
+.btn{
+    border: none;
+    text-transform: uppercase;
+    text-decoration: none;
+    overflow: hidden;
+    height: 55px;
+}
+.btn:hover{
+    background: #d81f1f;
+    opacity: 0.9;
+    box-shadow: 0 0 10px  #ff0000, 0 0 40px #f88649, 0 0 50px #ffffff;
+}
+#correo{
+    width: 250px;
+}
+
+input {
+    font-size: 1.1em;
+    border-radius: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    box-shadow: 0 0 20px #04fade, 0 0 30px #ffffff;
+}
+
