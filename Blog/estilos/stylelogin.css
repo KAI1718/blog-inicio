@@ -7,12 +7,12 @@ body{
 }
 
 .card{
-    background: #4c9484;
+    background: #ff3842;
     opacity: 0.9;
     height: 745px;
     border-radius: 10px;
     border-radius: 5px;
-    box-shadow: 0 0 20px #04fade, 0 0 70px #fcf4f4;
+    box-shadow: 0 0 20px #ff877b, 0 0 70px #fcf4f4;
 }
 font {
     color: white;
@@ -35,9 +35,9 @@ font {
     height: 55px;
 }
 .btn:hover{
-    background: #d81f1f;
+    background: #02b4d7;
     opacity: 0.9;
-    box-shadow: 0 0 10px  #ff0000, 0 0 40px #f88649, 0 0 50px #ffffff;
+    box-shadow: 0 0 10px  #6fddf1, 0 0 40px #94eef8, 0 0 50px #ffffff;
 }
 #correo{
     width: 250px;
@@ -49,6 +49,6 @@ input {
     border: none;
     border-radius: 5px;
     padding: 4px;
-    box-shadow: 0 0 20px #04fade, 0 0 30px #ffffff;
+    box-shadow: 0 0 20px #02b4d7, 0 0 50px #ffffff;
 }
 
